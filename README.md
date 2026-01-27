@@ -25,20 +25,17 @@ I'm an aspiring data scientist with a background in Industrial Engineering inter
 - Data cleaning & preprocessing
 - Visualization with Python (matplotlib / seaborn)
 - Excel (pivot tables, formulas, charts)
-- Power BI / Tableau (if applicable)
+- Power BI
 
-**Other:**
-- Version control with Git & GitHub
-- Basic statistics (distributions, hypothesis testing, correlation)
-
+  
 ---
 
 ## 📂 Projects & Portfolio
 
-### 🔹 Data Science Portfolio
+###  Data Science Portfolio
 This is my main repository where I’ll be organizing all my data projects:
 
-👉 [Data Science Portfolio]()
+👉 [Data Science Portfolio] (https://github.com/mcalzada12/Calzada-data-science-portfolio)
 
 More projects will be added over time as I work on:
 - Exploratory Data Analysis (EDA)
