@@ -1,6 +1,6 @@
 # Hi, I'm Miranda Calzada 👋
 
-I'm an aspiring data scientist with a background in Industrial Engineering interested in turning data into clear insights and actionable decisions. I enjoy working on projects that combine **data analysis**, **visualization**, and **real-world problem solving**.
+I'm an aspiring data scientist majoring in Industrial Engineering interested in turning data into clear insights and actionable decisions. I enjoy working on projects that combine **data analysis**, **visualization**, and **real-world problem solving**.
 
 ---
 
