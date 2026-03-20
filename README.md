@@ -46,7 +46,7 @@ The app allows users to compare happiness indicators between nations, view dynam
 It was designed to make the analysis more engaging by combining data display, interactive filtering, and visual insights in one place.
 
 <tr>
-  <td width="45%">
+  <td width="30%">
     <img src="https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/gettyimages-466313493-2?_a=BAVAZGB00" alt="Olympic Medalists" width="80%">
   </td>
   <td width="55%" valign="top">
