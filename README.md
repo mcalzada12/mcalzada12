@@ -39,7 +39,7 @@ I'm an aspiring data scientist majoring in Industrial Engineering interested in 
     </td>
     <td width="55%" valign="top">
 
-### [Happiness per Country Analysis] (https://github.com/mcalzada12/Calzada-data-science-portfolio/tree/main/Portfolios/portfolio_1)
+### [Happiness per Country Analysis](https://github.com/mcalzada12/Calzada-data-science-portfolio/tree/main/Portfolios/portfolio_1)
 
 This Streamlit project explores happiness data across countries through interactive visualizations and country-level comparisons.  
 The app allows users to compare happiness indicators between nations, view dynamic charts, and examine the dataset in a clear and accessible format.  
