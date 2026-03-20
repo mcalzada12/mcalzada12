@@ -51,11 +51,12 @@ It was designed to make the analysis more engaging by combining data display, in
   </td>
   <td width="50%" valign="top">
 
-### Olympic Medalists Data Analysis
+[Olympic Medalists Data Analysis](https://github.com/mcalzada12/Calzada-data-science-portfolio/tree/main/Portfolios/TidyData-Project)
 
-In this project, I analyzed Olympic medalist data to explore patterns across countries, sports, and gender.  
-Using interactive visualizations, I compared medal distributions and highlighted top-performing nations and disciplines.  
-The app includes dynamic charts and data exploration tools to better understand performance trends across different Olympic events.  
+In this Jupyter Notebook, I worked with the 2008 Olympic dataset to clean, structure, and analyze medalist data.  
+I applied tidy data principles to prepare the dataset, and created visualizations to compare medal distribution across countries, sports, and gender.  
+The analysis focuses on identifying top-performing nations and exploring differences between male and female participation in key sports.   
+
 
 **Tools & Technologies:** Python, Pandas, Streamlit, Matplotlib
 
