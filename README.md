@@ -45,7 +45,6 @@ This Streamlit project explores happiness data across countries through interact
 The app allows users to compare happiness indicators between nations, view dynamic charts, and examine the dataset in a clear and accessible format.  
 It was designed to make the analysis more engaging by combining data display, interactive filtering, and visual insights in one place.
 
-    </td>
   </tr>
 </table>
 
