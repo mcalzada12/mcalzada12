@@ -45,6 +45,8 @@ This Streamlit project explores happiness data across countries through interact
 The app allows users to compare happiness indicators between nations, view dynamic charts, and examine the dataset in a clear and accessible format.  
 It was designed to make the analysis more engaging by combining data display, interactive filtering, and visual insights in one place.
 
+**Tools & Technologies:** Python, Pandas, Streamlit, Matplotlib, Seaborn
+
 <tr>
   <td width="40%">
     <img src="https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/gettyimages-466313493-2?_a=BAVAZGB00" alt="Olympic Medalists" width="80%">
@@ -55,10 +57,10 @@ It was designed to make the analysis more engaging by combining data display, in
 
 In this Jupyter Notebook, I worked with the 2008 Olympic dataset to clean, structure, and analyze medalist data.  
 I applied tidy data principles to prepare the dataset, and created visualizations to compare medal distribution across countries, sports, and gender.  
-The analysis focuses on identifying top-performing nations and exploring differences between male and female participation in key sports.   
+The project focuses on the idea of tidy data preparation, and the process required to arrange dat aina way which is easier to manipulate and later on display. 
 
 
-**Tools & Technologies:** Python, Pandas, Streamlit, Matplotlib
+**Tools & Technologies:** Python, Pandas, Jupyter, sklearn, Applied Tidy Data Principles
 
   </td>
   </tr>
