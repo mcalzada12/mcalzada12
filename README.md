@@ -35,7 +35,7 @@ I'm an aspiring data scientist majoring in Industrial Engineering interested in 
 <table>
   <tr>
     <td width="27%">
-      <img src="https://www.visualcapitalist.com/wp-content/uploads/2024/03/OC-World-Happiness-Report-2024_Mar19.jpg" alt="World Happiness Report 2024" width="60%">
+      <img src="https://www.visualcapitalist.com/wp-content/uploads/2024/03/OC-World-Happiness-Report-2024_Mar19.jpg" alt="World Happiness Report 2024" width="70%">
     </td>
     <td width="55%" valign="top">
 
