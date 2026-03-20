@@ -32,7 +32,6 @@ I'm an aspiring data scientist majoring in Industrial Engineering interested in 
 
 
 ---
-### Happiness App
 <table>
   <tr>
     <td width="45%">
