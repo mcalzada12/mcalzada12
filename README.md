@@ -28,9 +28,7 @@ I'm an aspiring data scientist majoring in Industrial Engineering interested in 
 - Power BI
 
 
-## My projects  
-
-
+# My Portfolios
 ---
 <table>
   <tr>
@@ -61,6 +59,22 @@ The project focuses on the idea of tidy data preparation, and the process requir
 
 
 **Tools & Technologies:** Python, Pandas, Jupyter, sklearn, Applied Tidy Data Principles
+
+  </td>
+  </tr>
+  <tr>
+  <td width="40%">
+    <img src="https://github.com/mcalzada12/Calzada-data-science-portfolio/blob/main/Portfolios/Portfolio_3/images/Screenshot%202026-04-09%20at%2019.55.08.png" alt="Machine learning App" width="80%">
+  </td>
+  <td width="50%" valign="top">
+
+[Machine learning Model ](https://github.com/mcalzada12/Calzada-data-science-portfolio/tree/main/Portfolios/Portfolio_3)
+
+This machine learning project, is an application created using streamlit, focused on the ability of the app to receive diffrent data sets and anaylize and process them through diffrent machine learning models, these might be classifiers or regression models. The application has also diffrent settings depending on the model selected  which different hyperparameters can be tuned to optimize the model's ability to predict the target variable. 
+
+
+
+**Tools & Technologies:** Python, Pandas, sklearn, Machine learning models and Functions 
 
   </td>
   </tr>
